@@ -2,7 +2,7 @@ Desafio 3 - Creación de layout para Mobile & Desktop
 
 
 ## 🔗 Links
-[- [Tienda aliexpress al dia-](https://gianluca-cl.github.io/Desafio-3-css-avanzado-Media-Queries/)/]
+[- [Tienda Ropageeks-](https://gianluca-cl.github.io/Desafio-3-css-avanzado-Media-Queries/)/]
 
 ## 📫 Get in Touch
 Feel free to reach out for collaborations or inquiries:

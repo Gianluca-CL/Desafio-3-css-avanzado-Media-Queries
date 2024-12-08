@@ -1,6 +1,6 @@
 # Prueba-Css-avanzado
 ## 🔗 Links
-[- [Ropageeks-](https://gianluca-cl.github.io/Prueba-Css-avanzado/)
+[- [Ropageeks- ](https://gianluca-cl.github.io/Prueba-Css-avanzado/)
 
 ## 📫 Get in Touch
 Feel free to reach out for collaborations or inquiries:

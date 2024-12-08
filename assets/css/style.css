@@ -234,14 +234,14 @@ footer .redes a {
 }
 
   nav a {
-    display: block !important;
+    display: block ;
     color: white;
     text-decoration: none;
     padding: 0.5rem 0;
   }
 
   nav i {
-    display: none !important;
+    display: none ;
   }
   
   .items {

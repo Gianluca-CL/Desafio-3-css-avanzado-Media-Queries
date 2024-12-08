@@ -74,7 +74,7 @@ nav h1 i {
   color: white;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 575px) {
   nav {
     flex-direction: row;
     justify-content: space-between;
@@ -195,7 +195,7 @@ footer .redes a {
   margin: 0 0.5rem;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 575px) {
   footer {
     flex-direction: row;
     justify-content: space-between;
